@@ -13,7 +13,7 @@
 
 ---
 [Title](http://example.com/)
-<img src="images/Project6_386.JPG"/>
+<img src=""/>
 
 ---
 
