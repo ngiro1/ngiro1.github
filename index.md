@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Methods of Transportation to Work in Baltimore, MD](/sample_page)
+<img src="images/Project4_383.JPG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
