@@ -12,8 +12,8 @@
 <img src="images/419Project.JPG"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Title](http://example.com/)
+<img src="images/Project6_386.JPG"/>
 
 ---
 
