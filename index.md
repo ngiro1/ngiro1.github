@@ -8,8 +8,8 @@
 <img src="images/Project4_383.JPG"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analyzing the Efficacy of Green Infrastructure](/pdf/sample_presentation.pdf)
+<img src="images/419Project.JPG"/>
 
 ---
 [Project 3 Title](http://example.com/)
