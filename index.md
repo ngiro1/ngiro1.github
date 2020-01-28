@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Previous GIS Projects 
 
 [Methods of Transportation to Work in Baltimore, MD](/sample_page)
 <img src="images/Project4_383.JPG"/>
