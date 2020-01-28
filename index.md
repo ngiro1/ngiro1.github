@@ -12,8 +12,8 @@
 <img src="images/419Project.JPG"/>
 
 ---
-[Title](http://example.com/)
-<img src=""/>
+[Why Does Wealth Create Waste?](http://example.com/)
+<img src="images/Capture.JPG"/>
 
 ---
 
