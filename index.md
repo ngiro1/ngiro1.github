@@ -6,7 +6,7 @@
 
 [Methods of Transportation to Work in Baltimore, MD](/sample_page)
 <img src="images/Project4_383.JPG"/>
-This infographic was created to show the differences in methods of transportation to work for adults in the city of Baltimore, MD.
+This infographic was created to show the differences in methods of transportation to work in correlation with median income for adults in the city of Baltimore, MD.
 ---
 [Analyzing the Efficacy of Green Infrastructure](/pdf/sample_presentation.pdf)
 <img src="images/419Project.JPG"/>
