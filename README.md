@@ -1,6 +1,6 @@
 ## ***Nicholas Giro***
 
-**The deployed front-end of this repository is accessible at [ngiro1.github.io]**
+**The deployed front-end of this repository is accessible at [https://ngiro1.github.io/**]
 
 **This is a created website for displaying GIS and Remote Sensing projects and inforgraphics.**
 
