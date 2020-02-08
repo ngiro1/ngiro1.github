@@ -1,10 +1,10 @@
-## Developer Portfolio Landing Page Template
+## ***Nicholas Giro***
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+**The deployed front-end of this repository is accessible at [ngiro1.github.io]**
 
-<img src="images/demo.gif?raw=true"/>
+**This is a created website for displaying GIS and Remote Sensing projects and inforgraphics.**
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+This setup is based on instructions by Ivanna Kacewica on how to setup a Github portfolio. See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
