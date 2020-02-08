@@ -15,8 +15,8 @@ This project utilized GIS hydrology tools to analyze just how well green infrast
 <br><br>
 
 [Where would Demogorgons Spawn in Baltimore, MD?](https://github.com/ngiro1/ngiro1.github.io/blob/master/pdf/lab6_pt2_2complete_new3.pdf)
-<img src="images/Capture.JPG"/>
-This infographic was entirely created using ArcGIS software. Using provided data regarding *Stranger Things*'s Demogorgons and their likely habitat spawning requirements, I created this ranked map showing the likely spawning locations in the city of Baltimore, MD.
+<img src="images/stranger thigns.jpg"/>
+The class project infographic was entirely created using ArcGIS software. Using provided data regarding *Stranger Things*'s Demogorgons and their likely habitat spawning requirements, I created this ranked map showing the likely spawning locations in the city of Baltimore, MD.
 <br><br>
 
 ---
