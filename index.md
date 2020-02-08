@@ -4,8 +4,8 @@
 
 ### Previous GIS Projects 
 
-[Methods of Transportation to Work in Baltimore, MD](pdf/Giro_Lab4 [Recovered].pdf)
-<pdf/Giro_Lab4 [Recovered].pdf>
+[Methods of Transportation to Work in Baltimore, MD](https://github.com/ngiro1/ngiro1.github.io/blob/master/pdf/Giro_Lab4%20%5BRecovered%5D.pdf)
+<img src="images/419Project.JPG"/>
 This infographic was created to show the differences in methods of transportation to work in correlation with median income for adults in the city of Baltimore, MD.
 <br><br>
 ---
