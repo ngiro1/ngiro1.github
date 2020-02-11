@@ -1,6 +1,5 @@
-[**Analyzing the Efficacy of Green Infrastructure**]
+[**Where would Demogorgons Spawn in Baltimore, MD?**]
 
-This project utilized ArcGIS hydrology tools to map green infrastructure, delineate watersheds, and analyze just how well green infrastructure worked towards reducing peak flows in stream channels during storm events.
+The class project infographic was entirely created using ArcGIS software. Using provided data regarding *Stranger Things*'s Demogorgons and their likely habitat spawning requirements, I created this ranked map showing the likely spawning locations in the city of Baltimore, MD.
 
 <a href="/pdf/FinalPresentation.pdf">Final</a>
-
