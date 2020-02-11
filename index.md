@@ -14,9 +14,9 @@ This infographic was created to show the differences in methods of transportatio
 This project utilized GIS hydrology tools to analyze just how well green infrastructure worked towards reducing peak flows in channels using the previous data presented by Pennino et al.
 <br><br>
 
-[**Where would Demogorgons Spawn in Baltimore, MD?**](/pdf/lab6_pt2_2complete_new3.pdf)
+[**Where would Demogorgons Spawn in Baltimore, MD?**](Projects/demogorgon.md)
 <img src="images/stranger thigns.jpg"/>
-The class project infographic was entirely created using ArcGIS software. Using provided data regarding *Stranger Things*'s Demogorgons and their likely habitat spawning requirements, I created this ranked map showing the likely spawning locations in the city of Baltimore, MD.
+
 <br><br>
 
 ---
