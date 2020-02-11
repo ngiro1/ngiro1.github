@@ -14,7 +14,7 @@ This infographic was created to show the differences in methods of transportatio
 This project utilized GIS hydrology tools to analyze just how well green infrastructure worked towards reducing peak flows in channels using the previous data presented by Pennino et al.
 <br><br>
 
-[**Where would Demogorgons Spawn in Baltimore, MD?**](Projects/demogorgon.md)
+[**Where would Demogorgons Spawn in Baltimore, MD?**](/Projects/demogorgon)
 <img src="images/stranger thigns.jpg"/>
 
 <br><br>
