@@ -18,8 +18,10 @@
 <img src="images/stranger thigns.jpg"/>
 
 <br><br>
+
 [**Interpolation of the January 25, 2020, Storm in Harford County**](https://ngiro1.github.io/qgis2web_2020_02_18-15_04_48_049557/index.html)
 <img src="images/OtterPt_RainGage.jpg"/>
+
 ---
 
 ### Category Name 2
