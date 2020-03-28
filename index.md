@@ -2,7 +2,7 @@
 
 ---
 
-[**Comparing the Share of #StayHome vs #Covid19 Tweets Across the US**](/Projects/transportation)
+[**Comparing the Share of #StayHome vs #Covid19 Tweets Across the US**](/Projects/RTweet)
 <img src="images/Project4_383.JPG"/>
 
 ### Previous GIS Projects 
