@@ -2,6 +2,9 @@
 
 ---
 
+[**Comparing the Share of #StayHome vs #Covid19 Tweets Across the US**](/Projects/transportation)
+<img src="images/Project4_383.JPG"/>
+
 ### Previous GIS Projects 
 
 [**Methods of Transportation to Work in Baltimore, MD**](/Projects/transportation)
