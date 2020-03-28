@@ -3,7 +3,7 @@
 ---
 
 [**Comparing the Share of #StayHome vs #Covid19 Tweets Across the US**](/Projects/RTweet)
-<img src="images/Project4_383.JPG"/>
+<img src="images/Coronavirus-CDC-645x645.jpg"/>
 
 ### Previous GIS Projects 
 
