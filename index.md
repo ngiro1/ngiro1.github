@@ -5,7 +5,7 @@
 [**Comparing the Share of #StayHome vs #Covid19 Tweets Across the US**](/Projects/RTweet)
 <img src="images/Coronavirus-CDC-645x645.jpg"/>
 
-[**](/Projects/Project1_CoronaVirus)
+[**Tracking the Change in the Confirmed Cases of Covid19 in China**](/Projects/Project1_CoronaVirus)
 
 ### Previous GIS Projects 
 
