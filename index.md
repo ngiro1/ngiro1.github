@@ -16,7 +16,7 @@
 <br><br>
 
 [**Analyzing the Efficacy of Green Infrastructure**](/Projects/efficacy_of_green_infra)
-<img src="images/pennino_419.JPG"/>
+<img src="images/green_infrastructure.jpg"/>
 
 <br><br>
 
