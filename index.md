@@ -6,6 +6,7 @@
 <img src="images/Coronavirus-CDC-645x645.jpg"/>
 
 [**Tracking the Change in the Confirmed Cases of Covid19 in China**](/Projects/Project1_CoronaVirus)
+<img src="images/coronavirus-quarantine.jpg"/>
 
 ### Previous GIS Projects 
 
