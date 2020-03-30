@@ -2,5 +2,5 @@
 
 For this project, I created a GIF file containing a dynamic heatmap of China with the number of confirmed cases of the CoronaVirus (Covid19). I chose to show the data in China because the virus originated here, and ultimately the data was more accurately portrayed on a regional-scale. The data was obtained from the John's Hopkins Coronavirus Webmap, which compiled data from the CDC and WHO among other sources. The interactive webmap, at first glance, appeared to invoke fear and showed large circles all over the world. However, each of the data points is a city with the associated number of cases, deaths, recovered cases, and other information. The problem with this display is that some countries have one data point with multiple cases associated with it, while there are U.S. states with multiple data points -- the scaling doesn't match up on a global scale. For this reason, I chose China (in addition to the fact I was able to gather data from China's interactive webmap data portal (ChinaMap) concerning the different Chinese provinces, with each having one point associated with it -- this allowed for proper scaling for comparison). 
 
-<a href="images/NickGiro_Project1.GIF">GIF</a>
+<a href="https://imgflip.com/gif/3ulab2">GIF</a>
 
