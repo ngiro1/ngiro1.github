@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        #map {
+            width: 1619px;
+            height: 788px;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/StayHomevsCovid19_1.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[19.89192877669502,-140.48295473510544],[53.50647139294903,-52.8390804574632]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        var layer_CartoLight_0 = L.tileLayer('http://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+            opacity: 1.0,
+            attribution: '',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 22
+        });
+        layer_CartoLight_0;
+        map.addLayer(layer_CartoLight_0);
+        function pop_StayHomevsCovid19_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2"><strong>NAME</strong><br />' + (feature.properties['NAME'] !== null ? Autolinker.link(feature.properties['NAME'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>popltnE</strong><br />' + (feature.properties['popltnE'] !== null ? Autolinker.link(feature.properties['popltnE'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>covid_shar</strong><br />' + (feature.properties['covid_shar'] !== null ? Autolinker.link(feature.properties['covid_shar'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>stay_share</strong><br />' + (feature.properties['stay_share'] !== null ? Autolinker.link(feature.properties['stay_share'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2"><strong>covid_v_st</strong><br />' + (feature.properties['covid_v_st'] !== null ? Autolinker.link(feature.properties['covid_v_st'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_StayHomevsCovid19_1_0(feature) {
+            if (feature.properties['covid_v_st'] >= -0.048000 && feature.properties['covid_v_st'] <= -0.020000 ) {
+                return {
+                pane: 'pane_StayHomevsCovid19_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(230,97,1,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_st'] >= -0.020000 && feature.properties['covid_v_st'] <= -0.001000 ) {
+                return {
+                pane: 'pane_StayHomevsCovid19_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(253,184,99,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_st'] >= -0.001000 && feature.properties['covid_v_st'] <= 0.001000 ) {
+                return {
+                pane: 'pane_StayHomevsCovid19_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(247,247,247,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_st'] >= 0.001000 && feature.properties['covid_v_st'] <= 0.002000 ) {
+                return {
+                pane: 'pane_StayHomevsCovid19_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(178,171,210,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_st'] >= 0.002000 && feature.properties['covid_v_st'] <= 0.015000 ) {
+                return {
+                pane: 'pane_StayHomevsCovid19_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(94,60,153,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_StayHomevsCovid19_1');
+        map.getPane('pane_StayHomevsCovid19_1').style.zIndex = 401;
+        map.getPane('pane_StayHomevsCovid19_1').style['mix-blend-mode'] = 'normal';
+        var layer_StayHomevsCovid19_1 = new L.geoJson(json_StayHomevsCovid19_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_StayHomevsCovid19_1',
+            layerName: 'layer_StayHomevsCovid19_1',
+            pane: 'pane_StayHomevsCovid19_1',
+            onEachFeature: pop_StayHomevsCovid19_1,
+            style: style_StayHomevsCovid19_1_0,
+        });
+        bounds_group.addLayer(layer_StayHomevsCovid19_1);
+        map.addLayer(layer_StayHomevsCovid19_1);
+        setBounds();
+        </script>
+    </body>
+</html>
