@@ -2,11 +2,17 @@
 
 ---
 
+[**Can Twitter Predict the 2020 Election?**](/Projects/2020)
+<img src="images/biden_v_trump.jpg"/>
+
 [**Comparing the Share of #StayHome vs #Covid19 Tweets Across the US**](/Projects/RTweet)
 <img src="images/Coronavirus-CDC-645x645.jpg"/>
 
 [**Tracking the Change in the Confirmed Cases of Covid19 in China**](/Projects/Project1_CoronaVirus)
 <img src="images/coronavirus-quarantine.jpg"/>
+
+[**Interpolation of the January 25, 2020, Storm in Harford County**](https://ngiro1.github.io/qgis2web_2020_02_18-15_04_48_049557/index.html)
+<img src="images/OtterPt_RainGage.jpg"/>
 
 ### Previous GIS Projects 
 
@@ -24,23 +30,6 @@
 <img src="images/stranger thigns.jpg"/>
 
 <br><br>
-
-[**Interpolation of the January 25, 2020, Storm in Harford County**](https://ngiro1.github.io/qgis2web_2020_02_18-15_04_48_049557/index.html)
-<img src="images/OtterPt_RainGage.jpg"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
 
 
 ---
